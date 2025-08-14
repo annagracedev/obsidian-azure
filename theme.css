@@ -64,6 +64,7 @@ body {
   --tag-color: var(--color-accent);
   --checkbox-border-color: var(--text-muted);
   --checkbox-border-color-hover: var(--color-accent);
+  --checklist-done-decoration: none;
   --code-comment: var(--purple);
   --p-spacing: 1.5rem;
 
