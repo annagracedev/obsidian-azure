@@ -10,12 +10,12 @@ body {
   --font-monospace-theme: "Consolas", monospace;
   --font-accent-theme: "Consolas", monospace;
 
-  --font-normal: 16px;
+  --font-text-size: 16px;
   --font-small: 16px;
   --font-smaller: 14px;
   --font-smallest: 12px;
 
-  --code-size: var(--font-normal);
+  --code-size: var(--font-text-size);
   --code-normal: var(--font-text-theme);
   --code-background: var(--background-secondary);
 
