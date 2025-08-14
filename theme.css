@@ -40,14 +40,18 @@ body {
   --h5-line-height: var(--line-height-normal);
   --h6-line-height: var(--line-height-normal);
 
-  --h1-color: rgb(56,132,255);
-  --h2-color: rgb(81,125,255);
-  --h3-color: rgb(105,117,255);
-  --h4-color: rgb(116,111,248);
-  --h5-color: rgb(126,105,241);
-  --h6-color: rgb(137,99,234);
+  --h1-color: rgb(56, 132, 255);
+  --h2-color: rgb(97, 116, 245);
+  --h3-color: rgb(137, 99, 234);
+  --h4-color: rgb(173, 91, 202);
+  --h5-color: rgb(210, 82, 170);
+  --h6-color: rgb(246, 74, 138);
 
   --color-accent: var(--blue) !important;
+  --accent-h: 217;
+  --accent-s: 100%;
+  --accent-l: 61%;
+
   --background-modifier-accent: var(--color-accent);
   --background-modifier-success: var(--green);
   --background-modifier-error: var(--pink);
