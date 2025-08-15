@@ -9,7 +9,7 @@ A no-frills Obsidian theme designed for long writing sessions.
  - Colored nesting indicators 6 levels deep
 
 ## Design decisions
- - Same font size used for body and headings in Live Preview mode
+ - Same font size used for body and headings in editing modes
  - Hide code comments in Live Preview mode (for use with plugins like Waypoint)
 
 ## Credits
