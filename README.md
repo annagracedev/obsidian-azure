@@ -14,3 +14,6 @@ A no-frills Obsidian theme designed for long writing sessions.
 
 ## Credits
  - [Typewriter by @crashmoney](https://github.com/crashmoney/obsidian-typewriter)
+
+## Development
+This theme is not under active development, but please report any breaking visual [issues](https://github.com/annagracedev/obsidian-azure/issues) on GitHub.
